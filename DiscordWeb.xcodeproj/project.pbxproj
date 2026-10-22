@@ -1,3 +1,4 @@
+
 // !$*UTF8*$!
 {
     archiveVersion = 1;
@@ -18,21 +19,21 @@
         A10000000000000000000002 /* DiscordWebApp.swift */ = {
             isa = PBXFileReference;
             lastKnownFileType = sourcecode.swift;
-            path = DiscordWebApp.swift;
+            path = DiscordWeb/DiscordWebApp.swift;
             sourceTree = "<group>";
         };
 
         A10000000000000000000003 /* WebViewScreen.swift */ = {
             isa = PBXFileReference;
             lastKnownFileType = sourcecode.swift;
-            path = WebViewScreen.swift;
+            path = DiscordWeb/WebViewScreen.swift;
             sourceTree = "<group>";
         };
 
         A10000000000000000000004 /* Info.plist */ = {
             isa = PBXFileReference;
             lastKnownFileType = text.plist.xml;
-            path = Info.plist;
+            path = DiscordWeb/Info.plist;
             sourceTree = "<group>";
         };
 
